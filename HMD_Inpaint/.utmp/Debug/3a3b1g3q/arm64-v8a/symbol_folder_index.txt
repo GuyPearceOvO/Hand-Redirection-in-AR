@@ -1,0 +1,1 @@
+C:\Users\39241\HMD_Inpaint\Unity-PassthroughCameraApiSamples\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\cxx\Debug\3a3b1g3q\obj\arm64-v8a

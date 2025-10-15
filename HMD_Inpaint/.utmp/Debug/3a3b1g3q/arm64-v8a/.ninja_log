@@ -1,0 +1,12 @@
+# ninja log v5
+110	551	7809172798272739	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	bff0080f8f292977
+554	865	7809172801366421	C:/Users/39241/HMD_Inpaint/Unity-PassthroughCameraApiSamples/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/Debug/3a3b1g3q/obj/arm64-v8a/libswappywrapper.so	bcf2ce9051d8bc52
+1	1810	7809172810832051	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	2544fa73742dd8ed
+47	1834	7809172810984482	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	d87b281424fa2cd0
+90	1840	7809172811096803	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	29c5f48cc5b8f273
+60	1848	7809172811198111	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	38495ef34d33f74e
+76	1861	7809172811335286	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	409a7ab3f91772cf
+12	1877	7809172811542765	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	33286be5c0ab99c6
+35	1974	7809172812500783	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	55217eafd65741ed
+24	2033	7809172813049208	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	5782091282d11745
+2033	2171	7809172814483966	C:/Users/39241/HMD_Inpaint/Unity-PassthroughCameraApiSamples/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/Debug/3a3b1g3q/obj/arm64-v8a/libgame.so	1f083d2479c7dbe3

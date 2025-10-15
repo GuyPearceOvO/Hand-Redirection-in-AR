@@ -1,0 +1,6 @@
+<linker>
+  <assembly fullname="Assembly-CSharp">
+    <type fullname="PassthroughFrameSender" preserve="all" />
+    <type fullname="PassthroughFrameReceiver" preserve="all" />
+  </assembly>
+</linker>
