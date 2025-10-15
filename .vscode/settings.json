@@ -1,0 +1,4 @@
+{
+    "dotnet.preferCSharpExtension": true,
+    "dotnet.defaultSolution": "Hand-Redirection/006_Experiment.sln"
+}
