@@ -42,3 +42,6 @@ Thumbs.db
 
 # Custom runtime assets
 !Assets/StreamingAssets/InpaintServer/**
+haptic-retargeting-toolkit/
+论文/
+.vscode/
