@@ -1,0 +1,8 @@
+C:/Users/39241/HMD_Inpaint/HMD_Inpaint/.utmp/Debug/5w243k4v/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/39241/HMD_Inpaint/HMD_Inpaint/.utmp/Debug/5w243k4v/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/Users/39241/HMD_Inpaint/HMD_Inpaint/.utmp/Debug/5w243k4v/arm64-v8a/GameActivity/CMakeFiles/game.dir
+C:/Users/39241/HMD_Inpaint/HMD_Inpaint/.utmp/Debug/5w243k4v/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+C:/Users/39241/HMD_Inpaint/HMD_Inpaint/.utmp/Debug/5w243k4v/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
+C:/Users/39241/HMD_Inpaint/HMD_Inpaint/.utmp/Debug/5w243k4v/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+C:/Users/39241/HMD_Inpaint/HMD_Inpaint/.utmp/Debug/5w243k4v/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+C:/Users/39241/HMD_Inpaint/HMD_Inpaint/.utmp/Debug/5w243k4v/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,131 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\39241\\HMD_Inpaint\\Unity-PassthroughCameraApiSamples\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67DBECC6-EB64-C4EB-FEC6-B124D9BCE782}|Assembly-CSharp.csproj|c:\\users\\39241\\hmd_inpaint\\unity-passthroughcameraapisamples\\assets\\scripts\\passthroughframereceiver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67DBECC6-EB64-C4EB-FEC6-B124D9BCE782}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\passthroughframereceiver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67DBECC6-EB64-C4EB-FEC6-B124D9BCE782}|Assembly-CSharp.csproj|C:\\Users\\39241\\HMD_Inpaint\\Unity-PassthroughCameraApiSamples\\assets\\passthroughcameraapisamples\\multiobjectdetection\\sentisinference\\scripts\\sentisinferenceuimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67DBECC6-EB64-C4EB-FEC6-B124D9BCE782}|Assembly-CSharp.csproj|solutionrelative:assets\\passthroughcameraapisamples\\multiobjectdetection\\sentisinference\\scripts\\sentisinferenceuimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67DBECC6-EB64-C4EB-FEC6-B124D9BCE782}|Assembly-CSharp.csproj|C:\\Users\\39241\\HMD_Inpaint\\Unity-PassthroughCameraApiSamples\\assets\\passthroughcameraapisamples\\passthroughcamera\\scripts\\passthroughcamerapermissions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67DBECC6-EB64-C4EB-FEC6-B124D9BCE782}|Assembly-CSharp.csproj|solutionrelative:assets\\passthroughcameraapisamples\\passthroughcamera\\scripts\\passthroughcamerapermissions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67DBECC6-EB64-C4EB-FEC6-B124D9BCE782}|Assembly-CSharp.csproj|C:\\Users\\39241\\HMD_Inpaint\\Unity-PassthroughCameraApiSamples\\assets\\passthroughcameraapisamples\\passthroughcamera\\scripts\\webcamtexturemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67DBECC6-EB64-C4EB-FEC6-B124D9BCE782}|Assembly-CSharp.csproj|solutionrelative:assets\\passthroughcameraapisamples\\passthroughcamera\\scripts\\webcamtexturemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67DBECC6-EB64-C4EB-FEC6-B124D9BCE782}|Assembly-CSharp.csproj|C:\\Users\\39241\\HMD_Inpaint\\Unity-PassthroughCameraApiSamples\\assets\\passthroughcameraapisamples\\passthroughcamera\\scripts\\passthroughcamerautils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67DBECC6-EB64-C4EB-FEC6-B124D9BCE782}|Assembly-CSharp.csproj|solutionrelative:assets\\passthroughcameraapisamples\\passthroughcamera\\scripts\\passthroughcamerautils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\GU JIAQI\\Unity-PassthroughCameraApiSamples\\Library\\PackageCache\\com.meta.xr.mrutilitykit@696e1541dd92\\Core\\Scripts\\EnvironmentRaycastManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\39241\\HMD_Inpaint\\Unity-PassthroughCameraApiSamples\\Assets\\Plugins\\Android\\AndroidManifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Plugins\\Android\\AndroidManifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PassthroughFrameReceiver.cs",
+              "DocumentMoniker": "C:\\Users\\39241\\HMD_Inpaint\\Unity-PassthroughCameraApiSamples\\Assets\\Scripts\\PassthroughFrameReceiver.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PassthroughFrameReceiver.cs",
+              "ToolTip": "C:\\Users\\39241\\HMD_Inpaint\\Unity-PassthroughCameraApiSamples\\Assets\\Scripts\\PassthroughFrameReceiver.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PassthroughFrameReceiver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T06:08:42.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SentisInferenceUiManager.cs",
+              "DocumentMoniker": "C:\\Users\\39241\\HMD_Inpaint\\Unity-PassthroughCameraApiSamples\\Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\SentisInference\\Scripts\\SentisInferenceUiManager.cs",
+              "RelativeDocumentMoniker": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\SentisInference\\Scripts\\SentisInferenceUiManager.cs",
+              "ToolTip": "C:\\Users\\39241\\HMD_Inpaint\\Unity-PassthroughCameraApiSamples\\Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\SentisInference\\Scripts\\SentisInferenceUiManager.cs",
+              "RelativeToolTip": "Assets\\PassthroughCameraApiSamples\\MultiObjectDetection\\SentisInference\\Scripts\\SentisInferenceUiManager.cs",
+              "ViewState": "AgIAAL0AAAAAAAAAAAAxwL0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T09:41:47.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PassthroughCameraPermissions.cs",
+              "DocumentMoniker": "C:\\Users\\39241\\HMD_Inpaint\\Unity-PassthroughCameraApiSamples\\Assets\\PassthroughCameraApiSamples\\PassthroughCamera\\Scripts\\PassthroughCameraPermissions.cs",
+              "RelativeDocumentMoniker": "Assets\\PassthroughCameraApiSamples\\PassthroughCamera\\Scripts\\PassthroughCameraPermissions.cs",
+              "ToolTip": "C:\\Users\\39241\\HMD_Inpaint\\Unity-PassthroughCameraApiSamples\\Assets\\PassthroughCameraApiSamples\\PassthroughCamera\\Scripts\\PassthroughCameraPermissions.cs",
+              "RelativeToolTip": "Assets\\PassthroughCameraApiSamples\\PassthroughCamera\\Scripts\\PassthroughCameraPermissions.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAABBwBkAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T07:02:35.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WebCamTextureManager.cs",
+              "DocumentMoniker": "C:\\Users\\39241\\HMD_Inpaint\\Unity-PassthroughCameraApiSamples\\Assets\\PassthroughCameraApiSamples\\PassthroughCamera\\Scripts\\WebCamTextureManager.cs",
+              "RelativeDocumentMoniker": "Assets\\PassthroughCameraApiSamples\\PassthroughCamera\\Scripts\\WebCamTextureManager.cs",
+              "ToolTip": "C:\\Users\\39241\\HMD_Inpaint\\Unity-PassthroughCameraApiSamples\\Assets\\PassthroughCameraApiSamples\\PassthroughCamera\\Scripts\\WebCamTextureManager.cs",
+              "RelativeToolTip": "Assets\\PassthroughCameraApiSamples\\PassthroughCamera\\Scripts\\WebCamTextureManager.cs",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAowHwAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T06:45:57.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PassthroughCameraUtils.cs",
+              "DocumentMoniker": "C:\\Users\\39241\\HMD_Inpaint\\Unity-PassthroughCameraApiSamples\\Assets\\PassthroughCameraApiSamples\\PassthroughCamera\\Scripts\\PassthroughCameraUtils.cs",
+              "RelativeDocumentMoniker": "Assets\\PassthroughCameraApiSamples\\PassthroughCamera\\Scripts\\PassthroughCameraUtils.cs",
+              "ToolTip": "C:\\Users\\39241\\HMD_Inpaint\\Unity-PassthroughCameraApiSamples\\Assets\\PassthroughCameraApiSamples\\PassthroughCamera\\Scripts\\PassthroughCameraUtils.cs",
+              "RelativeToolTip": "Assets\\PassthroughCameraApiSamples\\PassthroughCamera\\Scripts\\PassthroughCameraUtils.cs",
+              "ViewState": "AQIAADUBAAAAAAAAAAAuwCYBAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T06:37:48.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EnvironmentRaycastManager.cs",
+              "DocumentMoniker": "C:\\GU JIAQI\\Unity-PassthroughCameraApiSamples\\Library\\PackageCache\\com.meta.xr.mrutilitykit@696e1541dd92\\Core\\Scripts\\EnvironmentRaycastManager.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\GU JIAQI\\Unity-PassthroughCameraApiSamples\\Library\\PackageCache\\com.meta.xr.mrutilitykit@696e1541dd92\\Core\\Scripts\\EnvironmentRaycastManager.cs",
+              "ToolTip": "C:\\GU JIAQI\\Unity-PassthroughCameraApiSamples\\Library\\PackageCache\\com.meta.xr.mrutilitykit@696e1541dd92\\Core\\Scripts\\EnvironmentRaycastManager.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\GU JIAQI\\Unity-PassthroughCameraApiSamples\\Library\\PackageCache\\com.meta.xr.mrutilitykit@696e1541dd92\\Core\\Scripts\\EnvironmentRaycastManager.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T10:23:39.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AndroidManifest.xml",
+              "DocumentMoniker": "C:\\Users\\39241\\HMD_Inpaint\\Unity-PassthroughCameraApiSamples\\Assets\\Plugins\\Android\\AndroidManifest.xml",
+              "RelativeDocumentMoniker": "Assets\\Plugins\\Android\\AndroidManifest.xml",
+              "ToolTip": "C:\\Users\\39241\\HMD_Inpaint\\Unity-PassthroughCameraApiSamples\\Assets\\Plugins\\Android\\AndroidManifest.xml",
+              "RelativeToolTip": "Assets\\Plugins\\Android\\AndroidManifest.xml",
+              "ViewState": "AQIAABEAAAAAAAAAAAAMwCAAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-06-05T10:06:11.267Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

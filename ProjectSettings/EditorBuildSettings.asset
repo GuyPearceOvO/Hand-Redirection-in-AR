@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/HMD_Inpaint/Scenes/Full-FOV Inpaint + HR.unity
+    guid: 6d9b946a03083a944a30d974ad930d0c
+  - enabled: 0
+    path: Assets/HMD_Inpaint/Scenes/Full-FOV Inpaint/Full Vision Test v1.unity
+    guid: 01cd817c5f277ec48b77ee21889b752b
+  - enabled: 0
+    path: Assets/HMD_Inpaint/Scenes/Ultraleap_Inpaint/Ultraleap_RTMDet_HMD.unity
+    guid: a959c8fa7c71ea941a45d3fe4158ee57
+  - enabled: 0
+    path: Assets/HMD_Inpaint/Scenes/Quest_Inpaint/HMD_Inpaint.unity
+    guid: 3a2dac6b538f484439f2ca91ac3c1647
+  - enabled: 0
+    path: Assets/HMD_Inpaint/Scenes/Quest_Inpaint/HMD_Inpaint_HR.unity
+    guid: 4e09545e5f2543258f061f6c77efc7dd
+  - enabled: 0
+    path: Assets/Samples/PassthroughCameraApiSamples/MultiObjectDetection/MultiObjectDetection.unity
+    guid: 20c230cce46443841b5727b1d6100bfc
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: f2bf97b3acdb64248a707c407c9fc54e, type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: cfc73d44f9e76b7489e0dde1e49bee20, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: a971eac5e950046e586c5e153e32d05c, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: f7ca0b27fa10ea54bba58cf9212fc681, type: 2}
+  m_UseUCBPForAssetBundles: 0

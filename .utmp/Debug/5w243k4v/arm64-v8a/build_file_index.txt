@@ -1,0 +1,3 @@
+C:\Users\39241\HMD_Inpaint\HMD_Inpaint\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+C:\Users\39241\HMD_Inpaint\HMD_Inpaint\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\FramePacing\CMakeLists.txt
+C:\Users\39241\HMD_Inpaint\HMD_Inpaint\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt
